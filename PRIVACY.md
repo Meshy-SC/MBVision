@@ -203,7 +203,7 @@ will also be highlighted inside the App.
 
 If you have questions about this Privacy Policy or your data:
 
-- **Email:** privacy@skfs2m.com
+- **Email:** apple.developer@skfs2m.com
 - **Postal address:** SKF Magnetic Mechatronics, France
 
 ---
