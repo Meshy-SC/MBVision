@@ -11,7 +11,7 @@ data, and an AI assistant for industrial maintenance, training, and inspection.
 
 For help, bug reports, or feature requests, please reach out:
 
-- **Email:** support@skfs2m.com
+- **Email:** apple.developer@skfs2m.com
 - **Response time:** within 2 business days
 - **Languages:** English, French
 
