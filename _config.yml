@@ -1,0 +1,12 @@
+title: MBVision — Support
+description: Support, contact, and FAQ for MBVision on Apple Vision Pro.
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - PRIVACY.md
+  - SUPPORT.md

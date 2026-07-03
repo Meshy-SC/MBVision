@@ -1,3 +1,9 @@
+---
+layout: default
+title: MBVision — Privacy Policy
+permalink: /privacy/
+---
+
 # MBVision — Privacy Policy
 
 **Effective date:** 18 June 2026

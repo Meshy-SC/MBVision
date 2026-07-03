@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MBVision — Support
-permalink: /support/
+permalink: /
 ---
 
 # MBVision — Support
@@ -17,7 +17,7 @@ data, and an AI assistant for industrial maintenance, training, and inspection.
 
 For help, bug reports, or feature requests, please reach out:
 
-- **Email:** apple.developer@skfs2m.com
+- **Email:** [apple.developer@skfs2m.com](mailto:apple.developer@skfs2m.com)
 - **Response time:** within 2 business days
 - **Languages:** English, French
 
@@ -102,9 +102,8 @@ not affected.
 
 ## Privacy
 
-Read our full Privacy Policy:
-[PRIVACY.md](./PRIVACY.md)
+Read our full [Privacy Policy]({{ '/privacy/' | relative_url }}).
 
 ---
 
-_Last updated: 18 June 2026_
+_Last updated: 3 July 2026_
